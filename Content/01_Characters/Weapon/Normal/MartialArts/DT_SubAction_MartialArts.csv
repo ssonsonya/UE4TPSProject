@@ -1,4 +1,4 @@
-,Montage,PlayRate
-1,AnimMontage'/Game/04_Animations/Montages/NormalPlayer/Attack/MartialArts/Kick_1_Montage.Kick_1_Montage',1.5
-2,AnimMontage'/Game/04_Animations/Montages/NormalPlayer/Attack/MartialArts/Kick_2_Montage.Kick_2_Montage',1.5
-3,AnimMontage'/Game/04_Animations/Montages/NormalPlayer/Attack/MartialArts/Kick_3_Montage.Kick_3_Montage',1.5
+,Montage,PlayRate,DisableMovement
+1,AnimMontage'/Game/04_Animations/Montages/NormalPlayer/Attack/MartialArts/Kick_1_Montage.Kick_1_Montage',1.5,TRUE
+2,AnimMontage'/Game/04_Animations/Montages/NormalPlayer/Attack/MartialArts/Kick_2_Montage.Kick_2_Montage',1.5,TRUE
+3,AnimMontage'/Game/04_Animations/Montages/NormalPlayer/Attack/MartialArts/Kick_3_Montage.Kick_3_Montage',1.5,TRUE
