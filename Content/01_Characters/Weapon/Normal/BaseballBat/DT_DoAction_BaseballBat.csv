@@ -1,4 +1,4 @@
 ,Montage,PlayRate,DisableMovement
-1,AnimMontage'/Game/04_Animations/Montages/NormalPlayer/Attack/BaseballBat/CrowBar_Attack_1_Montage.CrowBar_Attack_1_Montage',1.5,TRUE
-2,AnimMontage'/Game/04_Animations/Montages/NormalPlayer/Attack/BaseballBat/CrowBar_Attack_2_Montage.CrowBar_Attack_2_Montage',1.5,TRUE
-3,AnimMontage'/Game/04_Animations/Montages/NormalPlayer/Attack/BaseballBat/CrowBar_Attack_3_Montage.CrowBar_Attack_3_Montage',1.5,TRUE
+1,AnimMontage'/Game/04_Animations/Montages/NormalPlayer/Attack/BaseballBat/Sword_Attack_1_Montage.Sword_Attack_1_Montage',1.5,TRUE
+2,AnimMontage'/Game/04_Animations/Montages/NormalPlayer/Attack/BaseballBat/Sword_Attack_2_Montage.Sword_Attack_2_Montage',1.5,TRUE
+3,AnimMontage'/Game/04_Animations/Montages/NormalPlayer/Attack/BaseballBat/Sword_Attack_3_Montage.Sword_Attack_3_Montage',1.5,TRUE
