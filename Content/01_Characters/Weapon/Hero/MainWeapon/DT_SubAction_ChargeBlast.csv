@@ -1,4 +1,2 @@
 ,Montage,PlayRate,DisableMovement
-1,AnimMontage'/Game/04_Animations/Montages/HeroPlayer/Weapon/GunSlinger/DoubleShot_Fire_Rt_Montage.DoubleShot_Fire_Rt_Montage',1.5,FALSE
-2,AnimMontage'/Game/04_Animations/Montages/HeroPlayer/Weapon/GunSlinger/DoubleShot_Fire_Lft_Montage.DoubleShot_Fire_Lft_Montage',1.5,FALSE
-3,AnimMontage'/Game/04_Animations/Montages/HeroPlayer/Weapon/GunSlinger/Ability_NitroV2_Montage.Ability_NitroV2_Montage',1.5,FALSE
+1,AnimMontage'/Game/04_Animations/Montages/HeroPlayer/Weapon/Main/ChargeBlast/Ability_ChargeBlast_Fire_Montage.Ability_ChargeBlast_Fire_Montage',1.5,FALSE
