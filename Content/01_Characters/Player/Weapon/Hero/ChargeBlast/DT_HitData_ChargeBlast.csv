@@ -1,0 +1,2 @@
+,Damage,Montage,PlayRate,CanMove,Launch,HitStop,Sound,CameraShakeClass,Effect,EffectLocation,EffectScale
+1,30,AnimMontage'/Game/04_Animations/Montages/Enemy/HitReaction_Montage.HitReaction_Montage',1.5,FALSE,0,0,SoundWave'/Game/Sounds/S_HitPunch.S_HitPunch',,,"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)"
