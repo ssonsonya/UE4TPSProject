@@ -1,0 +1,4 @@
+,Damage,Montage,PlayRate,CanMove,Launch,HitStop,Sound,CameraShakeClass,Effect,EffectLocation,EffectScale
+1,5,Weak,1.5,FALSE,100,0,SoundWave'/Game/Sounds/S_HitPunch.S_HitPunch',BlueprintGeneratedClass'/Game/02_Components/WeaponComponent/Hitted/CS_Normal.CS_Normal_C',ParticleSystem'/Game/02_Components/WeaponComponent/Hitted/P_HittedDust.P_HittedDust',"(X=0,Y=0,Z=0)","(X=0.2,Y=0.2,Z=0.2)"
+2,10,Weak,1.5,FALSE,100,0,SoundWave'/Game/Sounds/S_HitPunch.S_HitPunch',BlueprintGeneratedClass'/Game/02_Components/WeaponComponent/Hitted/CS_Normal.CS_Normal_C',ParticleSystem'/Game/02_Components/WeaponComponent/Hitted/P_HittedDust.P_HittedDust',"(X=0,Y=0,Z=0)","(X=0.2,Y=0.2,Z=0.2)"
+3,15,Normal,1.5,FALSE,600,0,SoundWave'/Game/Sounds/S_HitPunch.S_HitPunch',BlueprintGeneratedClass'/Game/02_Components/WeaponComponent/Hitted/CS_Max.CS_Max_C',ParticleSystem'/Game/02_Components/WeaponComponent/Hitted/P_HittedDust.P_HittedDust',"(X=0,Y=0,Z=0)","(X=0.2,Y=0.2,Z=0.2)"
