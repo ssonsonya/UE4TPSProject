@@ -1,4 +1,4 @@
 ,Montage,PlayRate,DisableMovement
-1,AnimMontage'/Game/04_Animations/Montages/Enemy_Villain/Melee_Attack/Attack_A_Montage.Attack_A_Montage',1.3,TRUE
-2,AnimMontage'/Game/04_Animations/Montages/Enemy_Villain/Melee_Attack/Attack_B_Montage.Attack_B_Montage',1.3,TRUE
-3,AnimMontage'/Game/04_Animations/Montages/Enemy_Villain/Melee_Attack/Attack_E_SetB_Montage.Attack_E_SetB_Montage',1.3,TRUE
+1,AnimMontage'/Game/04_Animations/Montages/Enemy_Villain/Melee_Attack/Attack_A_Montage.Attack_A_Montage',1,TRUE
+2,AnimMontage'/Game/04_Animations/Montages/Enemy_Villain/Melee_Attack/Attack_B_Montage.Attack_B_Montage',1,TRUE
+3,AnimMontage'/Game/04_Animations/Montages/Enemy_Villain/Melee_Attack/Attack_E_SetB_Montage.Attack_E_SetB_Montage',1,TRUE
